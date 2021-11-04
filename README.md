@@ -1,2 +1,2 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=junamai2000&show_icons=true&count_private=true&hide_title=true&hide=issues&line_height=24&bg_color=22272E&text_color=909DAB&hide_border=true)](https://github.com/junamai2000/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junamai2000&layout=compact&hide_title=true&langs_count=6&bg_color=22272E&text_color=909DAB&hide_border=true)](https://github.com/junamai2000/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=junamai2000&show_icons=true&count_private=true)](https://github.com/junamai2000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junamai2000&layout=compact)](https://github.com/junamai2000/github-readme-stats)
